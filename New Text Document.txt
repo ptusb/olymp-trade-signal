@@ -1,0 +1,27 @@
+Develop an application that provides precise and reliable trading signals for Olymp Trade, aiming for a 100% accuracy rate. The application should utilize various analytical methods and data sources to generate these signals effectively. 
+
+### Additional details:
+- Focus on technical analysis, market trends, and economic indicators.
+- Incorporate user-friendly features that allow traders to easily understand the signals.
+- Ensure real-time updates and notifications for new signals.
+- Address potential risks and include disclaimers about trading outcomes.
+
+# Steps
+1. Conduct research on trading strategies proven to be successful within Olymp Trade.
+2. Identify key indicators and data sources for accurate signal generation.
+3. Design a user interface that is intuitive and easy to navigate.
+4. Develop the backend to manage data processing and signal generation.
+5. Test the application for accuracy and performance based on real trading scenarios.
+6. Gather user feedback and optimize features accordingly.
+
+# Output Format
+- A functional application available on major mobile platforms (iOS and Android).
+- Comprehensive user documentation and help guide for the application. 
+
+# Examples
+- **Signal Type:** Call/Put signal based on the analysis of the EUR/USD pair.
+- **Accuracy Rate:** 95% based on historical data over the last month.
+
+# Notes
+- While aiming for 100% accuracy, ensure that users are aware of the inherent risks in trading.
+- Develop methods to track signal performance over time.
