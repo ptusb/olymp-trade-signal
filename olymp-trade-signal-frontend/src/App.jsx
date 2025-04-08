@@ -16,8 +16,8 @@ function App() {
     async function fetchData() {
       try {
         const [signalRes, priceRes] = await Promise.all([
-          fetch('http://localhost:8000/signals'),
-          fetch('http://localhost:8000/live-price?pair=EURUSD')
+          fetch('https://olymp-trade-signal.onrender.com/signals'),
+          fetch('https://olymp-trade-signal.onrender.com/live-price?pair=EURUSD')
         ]);
         const signalData = await signalRes.json();
         const priceJson = await priceRes.json();
